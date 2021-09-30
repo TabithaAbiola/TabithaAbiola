@@ -7,5 +7,5 @@ I enjoy engaging in tech and coding commmunities, as it provides me with opportu
 ## Find me around the web:
 
 - My work is available at <a href="https://www.tabitha-abiola.wiki/">My online Portfolio</a>
-- Sharing updates on <a href="https://www.linkedin/in/Tabitha-Abiola/">LinkedIn</a>
+- Sharing updates on <a href="https://www.linkedin.com/in/tabitha-abiola/">LinkedIn</a>
  
