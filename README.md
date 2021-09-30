@@ -1,4 +1,5 @@
-# Hi, I am Tabitha 🖐️🙂 ⌨️ 
+# Hi, I am Tabitha 🖐️🙂 <code><img height="30" src="https://user-images.githubusercontent.com/48799624/135514740-a9377040-7f34-4b91-a7bf-ab048d675c25.png"></code>
+ 
 
 I am an enthusiast about anything to do with humans connecting to technology in a meaningful way. My areas of interest ranges from UI/UX, Web design (HTML, CSS and JS) all the way to database programming (SQL).
 
@@ -16,14 +17,15 @@ I enjoy engaging in tech and coding commmunities, as it provides me with opportu
 
 <br>
 
-## Find me around the web🌐: 
+## Find me around the web 🌐: 
 
-- My work is available within my <a href="https://www.tabitha-abiola.wiki/">online Portfolio</a>
-- Sharing updates on <a href="https://www.linkedin.com/in/tabitha-abiola/">LinkedIn</a>
+- My work is available within my <a href="https://www.tabitha-abiola.wiki/">online Portfolio</a> <code><img height="25" src="https://user-images.githubusercontent.com/48799624/135515989-8e35f401-25ef-4315-b7f7-73d8998e9fb6.png"></code>
+
+- Sharing updates on <a href="https://www.linkedin.com/in/tabitha-abiola/">LinkedIn</a> <code><img height="25" src="https://img.icons8.com/color/24/000000/linkedin.png"></code>
  
  <br>
  
- ## Other stuff about me👓:
+ ## Other stuff about me 👓:
 
 - Currently learning how to greatly improve site upload and download time by reducing the use of plugins (WP), using HTML, CSS and JS
-- Exploring react(JS) for quality-driven interface design
+- Exploring react(JS) for quality-driven interface design.
