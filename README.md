@@ -1,4 +1,4 @@
-# Hi, I am Tabitha 🖐️🙂 <code><img height="30" src="https://user-images.githubusercontent.com/48799624/135514740-a9377040-7f34-4b91-a7bf-ab048d675c25.png"></code>
+# Hi, I am Tabitha 🖐️🙂 <code><img height="40" src="https://user-images.githubusercontent.com/48799624/135514740-a9377040-7f34-4b91-a7bf-ab048d675c25.png"></code>
  
 
 I am an enthusiast about anything to do with humans connecting to technology in a meaningful way. My areas of interest ranges from UI/UX, Web design (HTML, CSS and JS) all the way to database programming (SQL).
@@ -25,7 +25,7 @@ I enjoy engaging in tech and coding commmunities, as it provides me with opportu
  
  <br>
  
- ## Other stuff about me 👓:
+ ## Other stuff about me :mag:
 
 - Currently learning how to greatly improve site upload and download time by reducing the use of plugins (WP), using HTML, CSS and JS
 - Exploring react(JS) for quality-driven interface design.
